@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.2](https://github.com/op-rs/kona/compare/kona-derive-v0.2.1...kona-derive-v0.2.2) - 2025-01-09
+
+### Other
+
+- *(deps)* Replace dep `alloy-rs/op-alloy-registry`->`op-rs/maili-registry` (#892)
+- *(deps)* Replace dep `alloy-rs/op-alloy-protocol`->`op-rs/maili-protocol` (#890)
+- *(derive)* Test Ignoring EIP-7702 (#887)
+
 ## [0.2.1](https://github.com/op-rs/kona/compare/kona-derive-v0.2.0...kona-derive-v0.2.1) - 2025-01-07
 
 ### Fixed
